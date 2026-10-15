@@ -81,4 +81,4 @@ I am interested in opportunities in **Financial Analysis, Corporate Finance, Equ
 Connect
 
 - GitHub: (https://github.com/27-anjaligupta-debug/Finance-projects)
-- LinkedIn: anjali-gupta-491460374  
+- LinkedIn:  www.linkedin.com/in/anjali-gupta-491460374
