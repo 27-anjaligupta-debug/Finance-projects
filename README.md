@@ -1,49 +1,78 @@
-# Anjali Gupta | Finance & Analytics Portfolio
+Anjali Gupta | Finance & Analytics Portfolio
 
-Welcome to my finance portfolio.
+PGDM – Financial Management | FIIB, New Delhi
 
-I am a PGDM student specializing in Financial Management at Fortune Institute of International Business (FIIB), with an interest in financial analysis, corporate finance, equity research, financial modelling, and data-driven decision-making.
+Welcome to my Finance & Analytics Portfolio.
 
-This repository is being developed to showcase my academic projects, analytical methods, financial research, and practical learning throughout my journey toward a career in financial analysis.
+I am a PGDM student specializing in Financial Management at the Fortune Institute of International Business (FIIB), New Delhi. I am interested in financial analysis, corporate finance, equity research, financial modelling, and data-driven decision-making.
 
-## Areas of Interest
+This repository showcases my academic projects, financial research, valuation models, and analytical work developed throughout my learning journey.
 
-- Financial Statement Analysis
-- Corporate Finance and Valuation
-- Equity Research and Investment Analysis
-- Financial Analytics and Data Visualization
-- Financial Econometrics and Time-Series Analysis
-- Technical Indicators and Historical Backtesting
-- AI-Assisted Financial Research
+Areas of Expertise
 
-## Project Portfolio
+- Corporate Finance & Valuation – Company valuation, financial modelling, and investment decision-making.
+- Financial Statement Analysis – Financial ratios, profitability, liquidity, solvency, and trend analysis.
+- Equity & Investment Analysis– Company research, market analysis, and investment evaluation.
+- Financial Analytics – Excel-based analysis, data interpretation, and visualization.
+- Risk & Quantitative Analysis – Financial risk concepts, econometrics, and time-series analysis.
 
-Project files and detailed documentation will be organised into the following areas as they are added and verified.
+Featured Projects
 
-| Project Area | Focus |
+01. Corporate Finance & Valuation
+- HUL Corporate Valuation
+- Polycab Strategic Financial Analysis
+- Investment Banking Financial Model
 
-| Financial Valuation | Valuation methods, assumptions, and financial interpretation |
-| Strategic Financial Management | Capital structure and financial decision-making |
-| Business Performance Analytics | Price, volume, mix, and dashboard-based analysis |
-| Financial Econometrics | Market behaviour, time-series methods, and volatility |
-| AI-Assisted Technical Analysis | Indicator analysis, historical backtesting, and risk observations |
+Focus:Valuation techniques, financial statements, modelling assumptions, and financial decision-making.
 
-## Analytical Tools
+02. Financial Statement Analysis
+- Company financial performance analysis
+- Financial ratio and trend analysis
+- Profitability and operational efficiency evaluation
 
-Excel | Power BI | Python | Pandas | NumPy | EViews
+Focus: Understanding business performance through financial data.
 
-*Tools and methods will be linked to relevant project evidence as the repository develops.*
+03. Financial Analytics & Data Visualization
+- Power BI dashboard projects
+- Excel-based analytical reports
+- Business performance and KPI analysis
 
-## My Learning Approach
+Focus: Transforming raw data into meaningful business insights.
 
-My focus is not only on completing financial assignments, but also on understanding the business question, selecting appropriate analytical methods, interpreting results, recognising limitations, and connecting insights to financial decision-making.
+04. Investment & Portfolio Analysis
+- Portfolio performance evaluation
+- Risk and return analysis
+- Investment research and asset allocation concepts
 
-Each documented project will aim to include its objective, methodology, key findings, interpretation, limitations, and supporting references where applicable.
+Focus: Applying financial concepts to investment decisions.
 
-## Connect
+ 05. AI-Powered Financial Analysis
+- AI-Powered Technical Indicator Analysis and Backtesting Assistant
 
-LinkedIn: https://www.linkedin.com/in/anjali-gupta-491460374 
+Focus: Exploring how AI can support technical indicator analysis, backtesting workflows, and structured financial research.
 
-Portfolio Website: https://invest-scribe-buddy.lovable.app/
+Technical Skills
+
+- Financial Tools: Microsoft Excel, Advanced Excel, Power BI
+- Data Analysis: Python, Pandas, NumPy
+- Quantitative Analysis:EViews, RStudio, Time-Series Analysis
+- Finance:Financial Modelling, Company Valuation, Ratio Analysis, Equity Research
+- Visualization: Power BI Dashboards, Charts, and KPI Reporting
+
+Education
+
+Post Graduate Diploma in Management (PGDM) 
+Specialization: Financial Management  
+Fortune Institute of International Business (FIIB), New Delhi
+
+Career Interests
+
+Financial Analysis | Corporate Finance | Credit Risk Analysis | Equity Research | Financial Modelling
+
+ Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/anjali-gupta-491460374
+- GitHub: https://invest-scribe-buddy.lovable.app/#projects
+
 
 
